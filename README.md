@@ -1,3 +1,4 @@
+![Real_Time_detection_model](https://github.com/OmkarShivam/Real-Time-Stair-vs-Lift-detection-using-ESP32/blob/main/images/realtime.jpg)
 # Real-Time-Stair-vs-Lift-detection-using-ESP32
 
 This project uses an ESP32 microcontroller and a machine-learning model to implement a real-time activity detection system. The ESP32 collects sensor data (gyroscope and altitude) and sends it to a server running on a computer. The server then processes the data, calculates the rate of change for each sensor reading, and uses a trained Support Vector Machine (SVM) model to predict the activity.
